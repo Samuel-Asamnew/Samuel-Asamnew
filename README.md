@@ -59,7 +59,6 @@
 # 🏦 Professional Projects
 
 ### 💳 ISO 20022 Message Conversion System
-
 - Cross-border banking message conversion
 - Enterprise Java development
 - Financial messaging
@@ -68,7 +67,6 @@
 ---
 
 ### 📈 IFRS9 Expected Credit Loss (ECL) System
-
 - Automated financial calculations
 - Banking risk assessment
 - Backend development
@@ -77,7 +75,6 @@
 ---
 
 ### 🏫 School Payment System Integration
-
 - Integrated with Core Banking
 - Payment processing
 - Secure REST APIs
@@ -85,21 +82,26 @@
 ---
 
 ### ✍ Signature Application System
-
 - Enterprise workflow
 - Secure authentication
 - Banking integration
 
 ---
 
-### 💰 Gadaa Securities Dealer's Website
-
-- Simple informational platform
-- Basic service details
-- User-friendly design
-
+### 🆔 Fayda Digital Identity Integration
+- Integrated Ethiopia's Fayda digital identity verification
+- React frontend with secure user verification workflow
+- Improved customer onboarding and identity validation
+- Responsive and user-friendly interface
 
 ---
+
+### 🌐 Gadaa Securities Dealer's Website
+- Corporate website for Gadaa Securities Dealer
+- Responsive React-based frontend
+- Showcases company services and information
+
+🔗 **Live Demo:** https://YOUR-LINK-HERE
 
 # 🎯 Interests
 
