@@ -126,10 +126,5 @@
 
 ---
 
-# 💬 Favorite Quote
-
-> "Continuous learning and consistent improvement are the foundation of great software engineering."
-
----
 
 ⭐ Thanks for visiting my profile!
