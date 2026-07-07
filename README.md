@@ -119,7 +119,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="www.linkedin.com/in/samuel-asamnew-mamo-80245833b">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
