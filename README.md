@@ -37,7 +37,7 @@
 <td width="40%" valign="top">
 
 ```yaml
-name: Samuel Asamnew
+name: Samuel Asamnew Mamo
 role: Full Stack / Backend Engineer
 location: Addis Ababa, Ethiopia
 focus:
