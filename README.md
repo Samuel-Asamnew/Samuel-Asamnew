@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samuel-Asamnew&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" alt="status" />
 
 <a href="mailto:samuelasamnewmamo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
